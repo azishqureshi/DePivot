@@ -1,2 +1,2 @@
 # DePivot
-DePivot is an all in one platform for hosting your favourite generative AI models.
+DePivot let's you host all your favourite generative AI models on one platform.
