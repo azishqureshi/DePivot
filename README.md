@@ -1,2 +1,3 @@
 # DePivot
-DePivot let's you host all your favourite generative AI models on one platform.
+DePivot is a program that translates sign language into text and converts it to speech using a custom-trained model and TTS.
+
