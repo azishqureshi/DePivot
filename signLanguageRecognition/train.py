@@ -1,6 +1,6 @@
 # Azish Qureshi
 # May 2025
-# DePivot
+# Signiqo AI
 
 # As of Sunday, May 18, 2025 the training dataset has been fully completed, consisting
 # of over 7800 images. The validation dataset has not yet been completed.

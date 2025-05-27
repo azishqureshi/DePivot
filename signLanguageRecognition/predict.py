@@ -1,6 +1,6 @@
 # Azish Qureshi
 # May 2025
-# DePivot
+# Signiqo AI
 
 # As of Sunday, May 18, 2025 the model can predict every letter up to 'F' with
 # exceptional accuracy. There appears to be an overfitting conflict with 'A' and 'E'
@@ -98,7 +98,7 @@ while True:
             mp_drawing.draw_landmarks(frame, handLms, mp_hands.HAND_CONNECTIONS)
 
     # Shows the frame
-    cv2.imshow('DePivot Sign Language Detection', frame)
+    cv2.imshow('Signiqo AI ASL Detection', frame)
 
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
